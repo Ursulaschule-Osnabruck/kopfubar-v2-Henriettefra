@@ -6,15 +6,36 @@ h1 {  font-family:  Verdana, Helvetica, Arial, sans-serif ;
     color:#007e7e ;}
 
 
-h2 { color: black; 
+h2 { color: black; }
 
-}
+
 
 h3 { color: #d12c47 ;}
 
 
-h4 { fon;}
+h4 { font-style: italic; }
+
+h1 {  font-family:  Verdana, Helvetica, Arial, sans-serif ;
+    color:#007e7e ;
+}
+
+#garantie { 
+    background-color: #b2cfcf; 
+    margin-right: 350px;
+    padding: 2cm;
+    background-image: url(bilder/hintergrund.gif);
+    background-repeat: no-repeat;
+  
+}
+
+#elixire { float: right;
+          width: 280px   ;   
+}
 
 
+#ende { float: middle;
+        width: 200px;}
 
-#garantie { background-color: blue;}
+
+body { width: 1000px;
+       margin: auto;}
